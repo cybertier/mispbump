@@ -1,3 +1,5 @@
+This repository is archived. Development will continue on [MISP's official repository](https://github.com/MISP/misp-bump).
+
 # MISPbump
 Simple and secure synchronisation of MISP instances
 
